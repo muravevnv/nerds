@@ -1,2 +1,2 @@
-# muravevnv.github.io
+# muravevnv
 Nerds template
